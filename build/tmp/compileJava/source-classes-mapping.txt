@@ -1,0 +1,8 @@
+com/ozduman/repository/ParkRideRepository.java
+ com.ozduman.repository.ParkRideRepository
+com/ozduman/entity/ParkRide.java
+ com.ozduman.entity.ParkRide
+com/ozduman/controller/ParkRideController.java
+ com.ozduman.controller.ParkRideController
+com/ozduman/ParkApplication.java
+ com.ozduman.ParkApplication

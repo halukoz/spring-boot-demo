@@ -1,0 +1,2 @@
+com/ozduman/ParkApplicationTest.java
+ com.ozduman.ParkApplicationTest
